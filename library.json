@@ -37,43 +37,7 @@
     },
     {
       "owner": "khoih-prog",
-      "name": "WebServer_WT32_ETH01",
-      "version": ">=1.5.1",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_ENC",
-      "version": ">=1.5.1",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_SC_ENC",
-      "version": ">=1.2.0",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_W5500",
-      "version": ">=1.5.2",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
       "name": "WebServer_ESP32_SC_W5500",
-      "version": ">=1.2.1",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_W6100",
-      "version": ">=1.5.2",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_SC_W6100",
       "version": ">=1.2.1",
       "platforms": ["espressif32"]
     }
